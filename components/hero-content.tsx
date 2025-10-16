@@ -50,7 +50,7 @@ export default function HeroContent() {
               </div>
               <h3 className="text-lg font-semibold text-white mb-3 text-center">Stable Value</h3>
               <p className="text-white/70 text-sm leading-relaxed text-center flex-grow">
-                zUSD maintains its $1 peg through algorithmic mechanisms and pooled collateral backing.
+                hzUSD maintains its $1 peg through algorithmic mechanisms and pooled collateral backing.
               </p>
             </div>
           </div>
@@ -90,7 +90,7 @@ export default function HeroContent() {
               </div>
               <h3 className="text-lg font-semibold text-white mb-3 text-center">Capital Efficient</h3>
               <p className="text-white/70 text-sm leading-relaxed text-center flex-grow">
-                Mint more zUSD with less collateral through shared risk pooling and automated yield generation.
+                Mint more hzUSD with less collateral through shared risk pooling and automated yield generation.
               </p>
             </div>
           </div>
